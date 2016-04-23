@@ -8,3 +8,5 @@ How to Optimize CPU-Intensive Work in Node.js:
 https://medium.com/@graeme_boy/how-to-optimize-cpu-intensive-work-in-node-js-cdc09099ed41#.oajjez9lk
 
 
+What to study for a job interview : 
+https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2#.fphg0dsg2
