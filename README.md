@@ -10,3 +10,9 @@ https://medium.com/@graeme_boy/how-to-optimize-cpu-intensive-work-in-node-js-cdc
 
 What to study for a job interview : 
 https://medium.com/@davidbyttow/abc-always-be-coding-d5f8051afce2#.fphg0dsg2
+
+
+How to deliver static files using express: ( really good article if you are getting started using express)
+http://www.fullstacktraining.com/articles/how-to-serve-static-files-with-express
+
+
