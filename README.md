@@ -16,3 +16,9 @@ How to deliver static files using express: ( really good article if you are gett
 http://www.fullstacktraining.com/articles/how-to-serve-static-files-with-express
 
 
+Relational Databases Design: 
+- Learn as much as you can about problem domain. You can't create good data model without knowing what you're designing for
+- Have good knowledge about data types provided by your database provider
+- How to properly use normalisation and design tables
+- Performance: when and how to apply indexes, how to write efficient queries etc.
+- When and how to use different DB objects like views, procedures, functions, triggers
