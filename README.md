@@ -22,3 +22,6 @@ Relational Databases Design:
 - How to properly use normalisation and design tables
 - Performance: when and how to apply indexes, how to write efficient queries etc.
 - When and how to use different DB objects like views, procedures, functions, triggers
+
+Install Apache spark on MacOS
+http://genomegeek.blogspot.com/2014/11/how-to-install-apache-spark-on-mac-os-x.html
