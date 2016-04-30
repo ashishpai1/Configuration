@@ -23,5 +23,13 @@ Relational Databases Design:
 - Performance: when and how to apply indexes, how to write efficient queries etc.
 - When and how to use different DB objects like views, procedures, functions, triggers
 
+
 Install Apache spark on MacOS
 http://genomegeek.blogspot.com/2014/11/how-to-install-apache-spark-on-mac-os-x.html
+
+
+Started learning and understanding "machine learning" : (supervised learning )
+Good resource for machine learning : 
+Introduction to machine learning: (Course)
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+
