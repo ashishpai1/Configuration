@@ -1,0 +1,10 @@
+Searching :
+  Linear search : 
+  O(n) time  and  O(1) space
+
+  Binary search : 
+  Requirements: The array needs to be sorted. 
+  O(logn) time and O(1) space
+
+  
+Sorting: 
