@@ -7,14 +7,23 @@ function isValid(myStr){
     if(arr.length % 2 !== 0){
         return false;
     }
+    
+    var keyObject = {};
+    keyObject["{"] = "}";
+    keyObject["("] = ")";
+    keyObject["["] = "]";
+    
     for(var i=0;i< arr.length;i++){
          console.log(stack)
          var currentElement = arr[i];
          if(currentElement === "[" || currentElement === "("  || currentElement === "{" ){
-                        stack.push(currentElement);
+                stack.push(currentElement);
          }else{
                 var poppedElement = stack.pop();
-                if(poppedElement === ")" || poppedElement === "}" ||  poppedElement === "]"){
+                if(keyObject[poppedElement] === undefined){
+                    return false; 
+                }
+                if(keyObject[poppedElement] !== currentElement){
                     return false; 
                 }
          }        
