@@ -1,11 +1,11 @@
 // JS with stack 
-// create an array and a stack(initially empty)
 // Input :  {([])} {()} {} ()
 // Output :  valid
 
 // Input : {{} ()
 // Output :  invalid
 
+// Solution :  create an array and a stack(initially empty)
 function isValid(myStr){
     var arr = myStr.trim().replace(/ /g,"").split("");
     var stack = [];
